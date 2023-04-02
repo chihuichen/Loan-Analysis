@@ -4,6 +4,7 @@ There is a long history of lending discrimination based on race in the United St
 The public HDMA dataset spans all the states and many years, and is documented here:
 
 https://www.ffiec.gov/hmda/pdf/2020guide.pdf
+
 https://cfpb.github.io/hmda-platform/#hmda-api-documentation
 
 In this project, I'll analyze every loan application made in Wisconsin in 2020.
